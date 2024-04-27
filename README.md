@@ -2,6 +2,7 @@
 Google Recaptcha Bypass
 
 
+
 # Installation
 ```
 pip install DrissionPage
@@ -10,7 +11,9 @@ pip install SpeechRecognition
 pip install ffmpeg
 ```
 
-I have created test.py to demonstrate the usage of this script. You can run the test.py file to see the script in action.
 
 # Demo
 ![Farmers Market Finder - Animated gif demo](document/GoogleRecaptchaBypass.gif)
+
+
+# One warning: Google may block your IP if you solve too many captchas in a short period of time. So, use this script wisely or change your IP frequently.
