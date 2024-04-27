@@ -16,4 +16,4 @@ pip install ffmpeg
 ![Farmers Market Finder - Animated gif demo](document/GoogleRecaptchaBypass.gif)
 
 
-# One warning: Google may block your IP if you solve too many captchas in a short period of time. So, use this script wisely or change your IP frequently.
+One warning: Google may block your IP if you solve too many captchas in a short period of time. So, use this script wisely or change your IP frequently.
