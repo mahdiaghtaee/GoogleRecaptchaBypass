@@ -1,4 +1,4 @@
-# GoogleRecaptchaBypass
+# Google Recaptcha Bypass
 Google Recaptcha Bypass
 
 
