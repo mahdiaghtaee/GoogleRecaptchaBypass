@@ -1,7 +1,6 @@
 # Google Recaptcha Bypass
 Google Recaptcha Bypass
-
-
+Bypassing reCaptcha by sending HTTP requests & solving reCaptcha using speech to text engine.
 
 # Installation
 ```
